@@ -48,7 +48,7 @@ class Board(object):
         allocation = (list(range(n_players)) * 42)[0:42]
         random.shuffle(allocation)
         xs = enumerate(allocation)
-        r = c([Territory(t, p, armies=1) for t, p in xs)
+        r = c([Territory(t, p, armies=1) for t, p in xs])
         return r
 
     # ====================== #
