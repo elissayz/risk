@@ -12,7 +12,7 @@ You will implement several graph algorithms to develop a tool for the game of Ri
 
 ### Background
 
-Risk is the classic board game of world domination.
+Risk is the classic board game of world domination!
 The website <https://warzone.com> has a free online game.
 If you've never played before, they provide a short tutorial with the rules.
 
